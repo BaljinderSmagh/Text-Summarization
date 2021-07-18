@@ -6,7 +6,11 @@ Here we will be using below datasets from kaggle:-
 1) https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 
-There are two types of text Summarization :-
+# What is Text Summarization?
+The Automatic process of shortening the data, to create a subset that represents the most important or relevant information.
+
+
+# Types of text Summarization :-
 1) Extractive Text Summarization:- It is a traditional method,in this text summarization technique involves picking up the most important phrases and lines from the given text.
 
 2) Abstractive Text Summarization :- it is the advanced method in generating summzarizes from the text. it generates a summary from a text using its main ideas not directly picking the sentences from the original text.
