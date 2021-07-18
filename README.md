@@ -14,3 +14,8 @@ The Automatic process of shortening the data, to create a subset that represents
 1) Extractive Text Summarization:- It is a traditional method,in this text summarization technique involves picking up the most important phrases and lines from the given text.
 
 2) Abstractive Text Summarization :- it is the advanced method in generating summzarizes from the text. it generates a summary from a text using its main ideas not directly picking the sentences from the original text.
+
+
+
+# Citations
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
