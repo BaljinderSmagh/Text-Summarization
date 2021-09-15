@@ -1,4 +1,4 @@
-# Text-Summarization
+# Text Summarization
 In this repository we will be using the different models starting from Seq2Seq models to GPT-2 for summarization of text or reviews.
 
 Here we will be using below datasets from kaggle:-
@@ -17,5 +17,11 @@ The Automatic process of shortening the data, to create a subset that represents
 
 
 
+
+
+# Models
+  
+  **BERT** 
+  **GPT**
 # Citations
 https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
