@@ -21,7 +21,7 @@ The Automatic process of shortening the data, to create a subset that represents
 
 # Models
   
-  **BERT** 
+  **BERT**(Bidirectional Encoder Representation  for Transformers)- It is open source framework for natural lanaguage processing(NLP).
   **GPT**
 # Citations
 https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
